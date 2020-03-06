@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    tools:context=".confirmExitFragment"
+    android:orientation="horizontal"
+    android:background="@color/colorPrimary"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/confirm_exit_fragment"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:text="Hello World"
+        android:textColor="#D50000" />
+
+
+</LinearLayout>
